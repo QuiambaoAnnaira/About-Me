@@ -12,7 +12,8 @@ Hi! I'm Arianna Marie B. Quiambao, a passionate Computer Science student current
 ## 💻 AREA OF INTEREST & PROGRAMMING LANGUAGES
 
 **Areas of Interest:**
-
+- Making flowchart
+- Graphics designing
 
 **Programming Languages I Know:**
 - Java ✅
@@ -39,5 +40,4 @@ Hi! I'm Arianna Marie B. Quiambao, a passionate Computer Science student current
 ## 📱 CONTACT ME
 
 - 📘 [Facebook](https://www.facebook.com/arianna.marie.quiambao)
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
 - 📧 Email: aquiambao24-0101@cca.edu.ph
