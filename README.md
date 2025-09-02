@@ -23,9 +23,8 @@ Hi! I'm Arianna Marie B. Quiambao, a passionate Computer Science student current
 
 ## 🔗 PROJECT LINKS/LAB TASKS
 
-- [My Portfolio Website](https://yourportfolio.com)
-- [My Java OOP Project](https://github.com/yourusername/java-oop-project)
-- [Other GitHub Repositories](https://github.com/yourusername)
+- [My Java OOP Project](https://github.com/QuiambaoAnnaira)
+- [Lab Tasks]()
 
 ---
 
