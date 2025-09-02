@@ -39,5 +39,5 @@ Hi! I'm Arianna Marie B. Quiambao, a passionate Computer Science student current
 
 ## 📱 CONTACT ME
 
-- 📘 [Facebook](https://www.facebook.com/arianna.marie.quiambao)
+- 📘 Facebook: [Facebook](https://www.facebook.com/arianna.marie.quiambao)
 - 📧 Email: aquiambao24-0101@cca.edu.ph
