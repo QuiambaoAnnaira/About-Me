@@ -1,19 +1,24 @@
-# 🧪 7OOP Lab Task Repository
+<!-- README.md -->
+<img src="github-header-banner.png" alt="Banner" width="100%" />
 
 ---
 
 ## 👤 ABOUT ME
 
+<p align="center">
+  <img src="irl pic.jpg" width="200" height="200">
+</p>
+
+
 Hi! I'm Arianna Marie B. Quiambao, a passionate Computer Science student currently exploring the world of Object-Oriented Programming and software development. 😊
 
-![My Picture](https://scontent.fmnl17-7.fna.fbcdn.net/v/t39.30808-6/446814665_2241988859526443_8009582623915075827_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeG_ORRu396LTLQWG3-bGh1_I3DTK_9t0UMjcNMr_23RQyKFYkp_OBpAqtwG4y0qCEYDb367-c88sUvLvMYE6-rn&_nc_ohc=G60qw9t4ymAQ7kNvwFpXpwc&_nc_oc=AdngaWnOp4Lf4zThN2qYV9ZXhB5ZXjAi8QnLBKgdT6baS5rS_quLQEYY8MD4AAoG5AU&_nc_zt=23&_nc_ht=scontent.fmnl17-7.fna&_nc_gid=OgB7Xn402W3oZI-HpHt-Mg&oh=00_AfZF69rAq_6np7dkhPjWEUgMFJooXVv0aeTsVBXbwWa7PA&oe=68BD3C00) 
 ---
 
 ## 💻 AREAS OF INTEREST & PROGRAMMING LANGUAGES
 
 **Areas of Interest:**
-- Making flowchart
-- Graphics designing
+- Making flow chart 📊
+- Graphics designing ✍️
 
 **Programming Languages I Know:**
 - Java ✅
@@ -22,10 +27,12 @@ Hi! I'm Arianna Marie B. Quiambao, a passionate Computer Science student current
 
 ---
 
-## 🔗 PROJECT LINKS/LAB TASKS
+## 🔗 PROJECT LINKS
 
-- [My Java OOP Project]()
-- [Lab Tasks]()
+<p align="left">
+  <img src="https://media.makeameme.org/created/oops-this-page.jpg" height="200" width="200">
+</p>
+
 
 ---
 
