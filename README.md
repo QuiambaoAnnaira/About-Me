@@ -22,7 +22,6 @@ Hi! I'm Arianna Marie B. Quiambao, a passionate Computer Science student current
 
 **Programming Languages I Know:**
 - Java ✅
-- Python ✅
 - C ✅
 
 ---
