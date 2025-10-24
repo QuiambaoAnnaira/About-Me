@@ -28,10 +28,13 @@ Hi! I'm Arianna Marie B. Quiambao, a passionate Computer Science student current
 
 ## 🔗 PROJECT LINKS
 
-<p align="left">
-  <img src="https://media.makeameme.org/created/oops-this-page.jpg" height="200" width="200">
-</p>
-
+- 📄 Midterm Lab Task 1 (Paired):([Quiambao, Arianna_LabTask1.pdf](https://github.com/QuiambaoAnnaira/About-Me/blob/main/Quiambao%2C%20Arianna_LabTask1.pdf))
+- 📄 Midterm Lab Task 1:([Quiambao, Arianna_LabTask1.pdf](https://github.com/QuiambaoAnnaira/About-Me/blob/main/Quiambao%2C%20Arianna_LabTask1.pdf))
+- 📄 Midterm Lab Task 2:([Quiambao, Arianna_LabTask1.pdf](https://github.com/QuiambaoAnnaira/About-Me/blob/main/Quiambao%2C%20Arianna_LabTask1.pdf))
+- 📄 Midterm Lab Task 3:([Quiambao, Arianna_LabTask1.pdf](https://github.com/QuiambaoAnnaira/About-Me/blob/main/Quiambao%2C%20Arianna_LabTask1.pdf))
+- 📄 Midterm Lab Task 4:([Quiambao, Arianna_LabTask1.pdf](https://github.com/QuiambaoAnnaira/About-Me/blob/main/Quiambao%2C%20Arianna_LabTask1.pdf))
+- 📄 Midterm Lab Task 5:([Quiambao, Arianna_LabTask1.pdf](https://github.com/QuiambaoAnnaira/About-Me/blob/main/Quiambao%2C%20Arianna_LabTask1.pdf))
+- 📄 Midterm Lab Task 6:([Quiambao, Arianna_LabTask1.pdf](https://github.com/QuiambaoAnnaira/About-Me/blob/main/Quiambao%2C%20Arianna_LabTask1.pdf))
 
 ---
 
