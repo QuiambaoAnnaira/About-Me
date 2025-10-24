@@ -28,14 +28,16 @@ Hi! I'm Arianna Marie B. Quiambao, a passionate Computer Science student current
 
 ## 🔗 PROJECT LINKS
 
-- 📄 Midterm Lab Task 1 (Paired):([Quiambao, Arianna_LabTask1.pdf](https://github.com/QuiambaoAnnaira/About-Me/blob/main/Quiambao%2C%20Arianna_LabTask1.pdf))
-- 📄 Midterm Lab Task 1:([Quiambao, Arianna_LabTask1.pdf](https://github.com/QuiambaoAnnaira/About-Me/blob/main/Quiambao%2C%20Arianna_LabTask1.pdf))
-- 📄 Midterm Lab Task 2:([Quiambao, Arianna_LabTask1.pdf](https://github.com/QuiambaoAnnaira/About-Me/blob/main/Quiambao%2C%20Arianna_LabTask1.pdf))
-- 📄 Midterm Lab Task 3:([Quiambao, Arianna_LabTask1.pdf](https://github.com/QuiambaoAnnaira/About-Me/blob/main/Quiambao%2C%20Arianna_LabTask1.pdf))
-- 📄 Midterm Lab Task 4:([Quiambao, Arianna_LabTask1.pdf](https://github.com/QuiambaoAnnaira/About-Me/blob/main/Quiambao%2C%20Arianna_LabTask1.pdf))
-- 📄 Midterm Lab Task 5:([Quiambao, Arianna_LabTask1.pdf](https://github.com/QuiambaoAnnaira/About-Me/blob/main/Quiambao%2C%20Arianna_LabTask1.pdf))
-- 📄 Midterm Lab Task 6:([Quiambao, Arianna_LabTask1.pdf](https://github.com/QuiambaoAnnaira/About-Me/blob/main/Quiambao%2C%20Arianna_LabTask1.pdf))
-
+- 📄 Midterm Lab Task 1 (Paired):([Lab Task 1(paired)](https://github.com/QuiambaoAnnaira/About-Me/blob/main/Midterm%20Paired%20Task%201.pdf))
+- 📄 Midterm Lab Task 1:([Lab Task 1](https://github.com/QuiambaoAnnaira/About-Me/blob/main/Quiambao%2C%20Arianna_LabTask1.pdf))
+- 📄 Midterm Lab Task 2:([Lab Task 2](https://github.com/QuiambaoAnnaira/About-Me/blob/main/Quiambao%2C%20Arianna%20Marie(C203)_Midterm%20Lab%20Task%202.pdf))
+- 📄 Midterm Lab Task 3:([Lab Task 3(pt.1)](https://github.com/QuiambaoAnnaira/About-Me/blob/main/LabTask3.png))
+                        ([Lab Task 3(pt.2)](https://github.com/QuiambaoAnnaira/About-Me/blob/main/LabTask3(1).png))
+- 📄 Midterm Lab Task 4:([Lab Task 4](https://github.com/QuiambaoAnnaira/About-Me/blob/main/LabTask4.png))
+- 📄 Midterm Lab Task 5:([Lab Task 5](https://github.com/QuiambaoAnnaira/About-Me/blob/main/Midterm%20Lab%20Task%205.pdf))
+- 📄 Midterm Lab Task 6:([Lab Task 6(pt. 1)](https://github.com/QuiambaoAnnaira/About-Me/blob/main/Midterm%20Lab%20Task%206%20(part%201).pdf))
+                        ([Lab Task 6(pt. 2)](https://github.com/QuiambaoAnnaira/About-Me/blob/main/Midterm%20Lab%20Task%206%20(problem%202).pdf))
+  
 ---
 
 ## 🎉 FUN FACTS ABOUT ME
